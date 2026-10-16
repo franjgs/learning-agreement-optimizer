@@ -10,6 +10,13 @@ A system for recommending academically coherent and feasible Learning Agreements
 
 ---
 
+## Project Overview
+
+![Learning Agreement Optimizer — System Overview](docs/images/infography.png)
+
+*Overview of the proposed system, including academic data ingestion, semantic course matching, constrained optimization, and Learning Agreement validation.*
+
+
 ## 1. Objectives
 
 The main objective is to design, implement, and evaluate a prototype capable of automatically proposing **academically coherent and feasible Learning Agreements** for international exchange students.
